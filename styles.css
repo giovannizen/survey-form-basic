@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color:whitesmoke;
+    text-align: center;
+   
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+.form-group{
+    text-align: center;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+
+.dropdown{
+    text-align: center;
+
+}
+
+#dropdown-label label{
+   text-align: center;
+}
+
